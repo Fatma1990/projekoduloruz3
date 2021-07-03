@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="357481f7-2707-4c76-baf7-48515228550f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../demojava/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demojava/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demojava/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demojava/demojava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.git.ignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw1java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/Grosery cashier/Grosery cashier.iml" afterDir="false" />
-    </list>
+    <list default="true" id="357481f7-2707-4c76-baf7-48515228550f" name="Default Changelist" comment="secod" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,6 +95,13 @@
       <option name="presentableId" value="Default" />
       <updated>1625338888666</updated>
     </task>
+    <task id="LOCAL؜٠٠٠٠١" summary="secod">
+      <created>1625340142274</created>
+      <option name="number" value="LOCAL؜٠٠٠٠١" />
+      <option name="presentableId" value="LOCAL؜٠٠٠٠١" />
+      <updated>1625340142274</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,5 +120,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="secod" />
+    <option name="LAST_COMMIT_MESSAGE" value="secod" />
   </component>
 </project>
